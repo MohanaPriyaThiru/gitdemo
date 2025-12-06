@@ -5,7 +5,7 @@ public class ConditionalStatement {
 	public void ifst() {
 	int mark =50;
 	
-	//if statement
+	//if statement demo
 	
 	if(mark>=35) {
 		
