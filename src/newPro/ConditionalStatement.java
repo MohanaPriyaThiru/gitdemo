@@ -40,7 +40,7 @@ public class ConditionalStatement {
 	}
 	public static void main(String[] args) {
 		ConditionalStatement cs = new ConditionalStatement();
-		//cs.ifst();
+		cs.ifst();
 		cs.elif();
 	}
 }
